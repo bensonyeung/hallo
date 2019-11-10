@@ -6,7 +6,7 @@ theme = "hallo"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 [Author]
-    name = "Hallo"
+    name = "Benson Yeung"
 
 [params]
 
@@ -14,14 +14,9 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
         iconset = "fas"
         icon = "envelope"
         title = "E-mail"
-        url = "mailto:mail@example.org"
+        url = "bensonyeung013@gmail.com"
 
     [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/"
-
-    [[params.links]]
-        icon = "twitter"
-        title = "Twitter"
-        url = "https://twitter.com/"
+        icon = "instagram"
+        title = "instagram"
+        url = "https://www.instagram.com/bennsoonnn/"
